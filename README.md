@@ -1,4 +1,4 @@
-# Python-Series-7-String-slicing
+# Python-Series-8-String-slicing
 
 You can return a range of characters by using the slice syntax.<br>
 
